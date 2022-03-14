@@ -3,6 +3,9 @@
 This project was created to minimize dependencies. It also saves time thanks to its fast and simple installation. You
 can use it only if you want to check the data. For advanced systems, the project will continue to evolve.
 
+Install:
+
+    composer require debiyach/validation
 E.g
 
     require_once './vendor/autoload.php';  
